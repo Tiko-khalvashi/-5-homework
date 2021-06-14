@@ -144,3 +144,73 @@ body {
 	font-size: 20px;
 	font-weight: 500;
 }
+.footer-bg{
+	background-color: #A6ADB4;
+	margin-top: 37px;
+	padding-top: 56px;
+	padding-bottom: 60px;
+}
+.block1,
+.block2,
+.block3,
+.block4,
+.block5,
+.block6{
+    display: inline-block;
+	vertical-align: top;
+}
+.block2 {
+	margin-left: 89.1px;
+	margin-right:96.7px ;
+}
+.block4 {
+	margin-left: 110.2px;
+	margin-right: 104.9px;
+}
+.block5 {
+	margin-right:153px ;
+} 
+
+.nav2,
+.nav-2-padding,
+.nav-2-padding,
+.list1,
+.list1-padding,
+.list1-padding2,
+.list2,
+.list2-padding,
+.list2-padding2{
+	font-size: 13px;
+	color: #CBD0D3;
+	font-family: 'Helvetica';
+}
+.logo-2{
+	font-weight: 600;
+	font-size: 13px;
+	color: #FFFFFF;
+
+}
+.block5-p{
+	font-size: 11px;
+	color: #CBD0D3;
+	font-family: 'Helvetica'
+
+}
+.nav-2-padding,
+.list1-padding,
+.list2-padding{
+	padding: 8px 0px;
+}
+.nav-2-padding2,
+.list1-padding2,
+.list2-padding2{
+	padding-bottom: 8px;
+}
+.twit-img{
+	display: inline-block;
+	margin: 0px 32px ;
+}
+.fb-img{
+	display: inline-block;
+	margin-right: 32px;
+}
