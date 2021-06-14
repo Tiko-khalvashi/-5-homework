@@ -116,3 +116,31 @@ body {
 	font-size: 13px;
 	margin-left: 10px;
 }
+.container-block{
+	width:1170px;
+	margin:0 auto;
+}
+.right-block{
+	display: inline-block;
+	width:760px ;
+	vertical-align: top;	
+}
+.left-block{
+	display: inline-block;
+	width: 360px;
+	vertical-align: top;
+	margin-left: 50px;
+}
+.img-top{
+   margin-bottom: 40px;
+}
+.img-middle{
+	margin: 120px 0;
+}
+.divh2{
+	margin-top: 58px;
+	margin-bottom: 40px;
+	font-family: 'Helvetica';
+	font-size: 20px;
+	font-weight: 500;
+}
